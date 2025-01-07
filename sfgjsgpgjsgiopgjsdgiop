@@ -1,5 +1,6 @@
 return {
     ['A432971C-27FC-4CEA-9A45-E8993B6B23B8'] = {whitelist = 1736243509, duration = 99999},
     ['220EC584-796A-45D3-AA2F-4C470C0804CF'] = {whitelist = 1736243509, duration = 99999},
-    ['9EF3892F-428D-4C09-BD7A-8B225DD1528C'] = {whitelist = 1736243509, duration = 99999}
+    ['9EF3892F-428D-4C09-BD7A-8B225DD1528C'] = {whitelist = 1736243509, duration = 99999},
+    ['DB4AD257-DAC3-4EE0-A168-394ECD07A527'] = {whitelist = 1736264108, duration = 30}
 }
