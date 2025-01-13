@@ -1,8 +1,8 @@
 return {
-    ['A432971C-27FC-4CEA-9A45-E8993B6B23B8'] = {whitelist = 1736243509, duration = 99999},
-    ['F710E599-F53D-4FAE-9AF5-5A45E2B203C2'] = {whitelist = 1736243509, duration = 99999},
-    ['1563825A-2869-4086-9653-289BF95A185B'] = {whitelist = 1736243509, duration = 99999},
-    ['DB4AD257-DAC3-4EE0-A168-394ECD07A527'] = {whitelist = 1736264108, duration = 30},
-    ['d0012e99-9eb6-4104-928b-526ee6f7852a'] = {whitelist = 1736264108, duration = 14},
-    ['0DC76336-BBDA-476E-A358-9C276A722DEA'] = {whitelist = 1736264108, duration = 14}
+    ['A432971C-27FC-4CEA-9A45-E8993B6B23B8'] = {whitelist = 1736243509, duration = 99999}, -- Jimbo
+    ['F710E599-F53D-4FAE-9AF5-5A45E2B203C2'] = {whitelist = 1736243509, duration = 99999}, -- Xat 1
+    ['1563825A-2869-4086-9653-289BF95A185B'] = {whitelist = 1736243509, duration = 99999}, -- Xat 2
+    ['DB4AD257-DAC3-4EE0-A168-394ECD07A527'] = {whitelist = 1736264108, duration = 30}, -- Loxx
+    ['d0012e99-9eb6-4104-928b-526ee6f7852a'] = {whitelist = 1736264108, duration = 14}, -- apex mob
+    ['256B9BFD-88FA-4CA7-A5B6-64E89AF16AE5'] = {whitelist = 1736264108, duration = 14} -- apex pc
 }
