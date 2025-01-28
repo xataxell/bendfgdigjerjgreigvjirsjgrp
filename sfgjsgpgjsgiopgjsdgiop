@@ -5,5 +5,6 @@ return {
     ['DB4AD257-DAC3-4EE0-A168-394ECD07A527'] = {whitelist = 1736264108, duration = 30}, -- Loxx
     ['d0012e99-9eb6-4104-928b-526ee6f7852a'] = {whitelist = 1736264108, duration = 14}, -- apex mob
     ['256B9BFD-88FA-4CA7-A5B6-64E89AF16AE5'] = {whitelist = 1736264108, duration = 14}, -- apex pc
-    ['2915C10A-9FCA-473C-B99C-47A57E2561ED'] = {whitelist = 1737153454, duration = 7} -- part
+    ['2915C10A-9FCA-473C-B99C-47A57E2561ED'] = {whitelist = 1737153454, duration = 7}, -- part
+    ['7B98F54A-B7F1-4A5C-9BC0-C30BB27D676B'] = {whitelist = 1736243509, duration = 99999} -- playboiwani
 }
