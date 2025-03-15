@@ -10,5 +10,6 @@ return {
     ['47FFD62B-0F41-4A41-9D41-2C07624FDE6E'] = {whitelist = 1738666746, duration = 14}, -- Akotine
     ['D1C41B10-7144-4DA6-9867-56F7F1E86F03'] = {whitelist = 1740413736, duration = 14}, -- auskied
     ['E31A3B67-B012-4FC1-9800-941C371CC414'] = {whitelist = 1740943616, duration = 1}, --local
-    ['CF11F12E-C3B7-4773-8C13-9CA0CF15B816'] = {whitelist = 1741794768, duration = 1} --2muchdough
+    ['CF11F12E-C3B7-4773-8C13-9CA0CF15B816'] = {whitelist = 1741794768, duration = 1}, --2muchdough
+    ['E634F4E0-B9EC-4B58-BD9D-355E02260A73'] = {whitelist = 1742071301, duration = 14} --lopsided he beat me in jjs he was hacking
 }
