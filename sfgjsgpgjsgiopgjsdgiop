@@ -13,5 +13,6 @@ return {
     ['CF11F12E-C3B7-4773-8C13-9CA0CF15B816'] = {whitelist = 1741794768, duration = 1}, --2muchdough
     ['E634F4E0-B9EC-4B58-BD9D-355E02260A73'] = {whitelist = 1744038559, duration = 14}, --lopsided he beat me in jjs he was hacking
     ['94197D4E-ED82-4FF7-A9FD-DCB2AD3089A5'] = {whitelist = 1742137300, duration = 14}, --choi
-    ['2DF5B3E9-FB14-488D-BDE8-64060B0CFA98'] = {whitelist = 1743620786, duration = 30} -- x78
+    ['2DF5B3E9-FB14-488D-BDE8-64060B0CFA98'] = {whitelist = 1743620786, duration = 30}, -- x78
+    ['4F5AE61E-05C3-4DB7-9CD8-153692170423'] = {whitelist = 1744381707, duration = 1} -- super_g35
 }
