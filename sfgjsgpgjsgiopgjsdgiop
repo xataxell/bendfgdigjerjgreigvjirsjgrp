@@ -16,5 +16,6 @@ return {
     ['2DF5B3E9-FB14-488D-BDE8-64060B0CFA98'] = {whitelist = 1743620786, duration = 30}, -- x78
     ['4F5AE61E-05C3-4DB7-9CD8-153692170423'] = {whitelist = 1744381707, duration = 1}, -- super_g35
     ['05337A6F-0671-46AB-87DF-1AFB105401C4'] = {whitelist = 1745100961, duration = 14}, --vamp
-    ['EF0F171C-2208-42CD-92A0-54B505619599'] = {whitelist = 1745177722, duration = 30} --syntaxisntreal
+    ['EF0F171C-2208-42CD-92A0-54B505619599'] = {whitelist = 1745177722, duration = 30}, --syntaxisntreal
+    ['7A99124C-66E7-4AF5-B37E-C0EEA55DDDE3'] = {whitelist = 1745592244, duration = 14} --dio
 }
