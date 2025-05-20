@@ -19,5 +19,6 @@ return {
     ['EF0F171C-2208-42CD-92A0-54B505619599'] = {whitelist = 1745177722, duration = 30}, --syntaxisntreal
     ['7A99124C-66E7-4AF5-B37E-C0EEA55DDDE3'] = {whitelist = 1745592244, duration = 14}, --dio
     ['87B3B619-0CE4-4061-8DEC-AFFCFFC3F593'] = {whitelist = 1746269392, duration = 1}, --pudina
-    ['057D22D8-EB90-4B08-9CAC-306665D8D73C'] = {whitelist = 1746980288, duration = 1} --onetapwonder
+    ['057D22D8-EB90-4B08-9CAC-306665D8D73C'] = {whitelist = 1746980288, duration = 1}, --onetapwonder
+    ['A25A970F-CB3E-4585-837E-7938DE39AA83'] = {whitelist = 1747774169, duration = 14} --lurkin
 }
