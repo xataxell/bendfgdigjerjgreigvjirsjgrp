@@ -20,5 +20,6 @@ return {
     ['7A99124C-66E7-4AF5-B37E-C0EEA55DDDE3'] = {whitelist = 1745592244, duration = 14}, --dio
     ['87B3B619-0CE4-4061-8DEC-AFFCFFC3F593'] = {whitelist = 1746269392, duration = 1}, --pudina
     ['057D22D8-EB90-4B08-9CAC-306665D8D73C'] = {whitelist = 1746980288, duration = 1}, --onetapwonder
-    ['a25a970f-cb3e-4585-837e-7938de39aa83'] = {whitelist = 1747774169, duration = 14} --lurkin
+    ['a25a970f-cb3e-4585-837e-7938de39aa83'] = {whitelist = 1747774169, duration = 14}, --lurkin
+    ['330AF663-9219-430A-B84E-094539EF3953'] = {whitelist = 1748795447, duration = 99999} --jimbo again
 }
