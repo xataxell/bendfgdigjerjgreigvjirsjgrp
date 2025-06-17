@@ -8,7 +8,7 @@ return {
     ['2915C10A-9FCA-473C-B99C-47A57E2561ED'] = {whitelist = 1737153454, duration = 7}, -- part
     ['7B98F54A-B7F1-4A5C-9BC0-C30BB27D676B'] = {whitelist = 1736243509, duration = 99999}, -- playboiwani
     ['47FFD62B-0F41-4A41-9D41-2C07624FDE6E'] = {whitelist = 1738666746, duration = 14}, -- Akotine
-    ['D1C41B10-7144-4DA6-9867-56F7F1E86F03'] = {whitelist = 1750105758, duration = 14}, -- auskied
+    ['B654A771-6406-4E19-AA9D-79FC6B84E4A8'] = {whitelist = 1750166427, duration = 1}, -- auskied
     ['E31A3B67-B012-4FC1-9800-941C371CC414'] = {whitelist = 1740943616, duration = 1}, --local
     ['CF11F12E-C3B7-4773-8C13-9CA0CF15B816'] = {whitelist = 1741794768, duration = 1}, --2muchdough
     ['E634F4E0-B9EC-4B58-BD9D-355E02260A73'] = {whitelist = 1744038559, duration = 14}, --lopsided he beat me in jjs he was hacking
