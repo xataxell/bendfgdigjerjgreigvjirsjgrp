@@ -21,7 +21,6 @@ return {
     ['87B3B619-0CE4-4061-8DEC-AFFCFFC3F593'] = {whitelist = 1746269392, duration = 1}, --pudina
     ['057D22D8-EB90-4B08-9CAC-306665D8D73C'] = {whitelist = 1746980288, duration = 1}, --onetapwonder
     ['a25a970f-cb3e-4585-837e-7938de39aa83'] = {whitelist = 1747774169, duration = 14}, --lurkin
-    ['330AF663-9219-430A-B84E-094539EF3953'] = {whitelist = 1748795447, duration = 99999}, --jimbo again
     --special boys
     ['187SD3B2-F27B-4379-85A0-BE01DD6CE008'] = {whitelist = 1750771043, duration = 0.000694444}, --shade
 }
