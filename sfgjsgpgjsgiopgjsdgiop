@@ -21,4 +21,5 @@ return {
     ['87B3B619-0CE4-4061-8DEC-AFFCFFC3F593'] = {whitelist = 1746269392, duration = 1}, --pudina
     ['057D22D8-EB90-4B08-9CAC-306665D8D73C'] = {whitelist = 1746980288, duration = 1}, --onetapwonder
     ['a25a970f-cb3e-4585-837e-7938de39aa83'] = {whitelist = 1747774169, duration = 14}, --lurkin
+    ['A2BDB5BC-65EE-4032-9056-AE0CC7D89F4B'] = {whitelist = 1750875436, duration = 30}, --caprisun
 }
